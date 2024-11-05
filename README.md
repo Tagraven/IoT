@@ -22,7 +22,7 @@ On receipt of packet from Sender:
 
 Unpack Salt to Generate Receiver DPK --> Decrypt Cipher A using DPK to recreate String A.
 
-Upon receipt of String A --> Execute Command A (Command is what ever command of yur demonstration linked to Press Button A.)
+Upon receipt of String A --> Execute Command A (Command is what ever command of your demonstration linked to Press Button A.)
 
 ### Note: It's worth breaking the problem down into logical steps like this and then writing the code for each step in order.
 

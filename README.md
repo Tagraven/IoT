@@ -24,8 +24,8 @@ Unpack Salt to Generate Receiver DPK --> Decrypt Cipher A using DPK to recreate 
 
 Upon receipt of String A --> Execute Command A (Command is what ever command of yur demonstration linked to Press Button A.)
 
-## Note: It's worth breaking the problem down into logical steps like this and then writing the code for each step in order.
+### Note: It's worth breaking the problem down into logical steps like this and then writing the code for each step in order.
 
-## Logic for the key generation can be found in the assessment. Again break it down stage by stage. Write the code to create k1, then k2 etc etc. Each section is reasonably straight forward and only a few lines of code.
+### Logic for the key generation can be found in the assessment. Again break it down stage by stage. Write the code to create k1, then k2 etc etc. Each section is reasonably straight forward and only a few lines of code.
 
-## If you break the problem down it's a lot easier to manage that trying to get your head around a larger complex problem.
+### If you break the problem down it's a lot easier to manage that trying to get your head around a larger complex problem.

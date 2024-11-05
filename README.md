@@ -10,7 +10,7 @@ dpkencrypt and dpkdecrypt help to illustrate the logic behind what happens when 
 
 Press Button A --> Generate string  A = Press Button A
 
-Generate DPk --> capture salt used to create DPK.
+Generate DPK --> capture salt used to create DPK.
 
 Use DPK to encrypt String A using AES ECB (You'll need to find a AES Lite library such as embedded TLS or tiny-aes) --> Create Cipher A.
 
